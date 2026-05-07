@@ -1,0 +1,12 @@
+{
+  "base_scale": 1.0,
+  "cadence": {
+    "short": 0.8,
+    "medium": 1.0,
+    "long": 1.3
+  },
+  "token_rules": {
+    "vowel_boost": 1.1,
+    "consonant_damp": 0.95
+  }
+}
