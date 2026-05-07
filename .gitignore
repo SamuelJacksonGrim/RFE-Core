@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+env/
+ENV/
+
+# Virtualenv
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyTorch checkpoints
+*.pt
+*.pth
+checkpoints/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime
+*.log
+*.sqlite3
+*.db
+*.pid
+*.sock
+
+# IDEs
+.vscode/
+.idea/
+*.iml
