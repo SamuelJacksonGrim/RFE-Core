@@ -1,3 +1,10 @@
+# RFE-Core
+
+[![License: AGPL-3.0-only](https://img.shields.io/badge/license-AGPL--3.0--only-blue)](LICENSE)
+[![dual-license](https://img.shields.io/badge/dual--license-AGPL--3.0--only%20or%20commercial-blueviolet)](LICENSING.md)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
+![status](https://img.shields.io/badge/status-prototype-success)
+
 RFE-Core
 
 Minimal prototype for the RFE-Core architecture: a small, self-contained cognitive vector system with a Transformer-based Generator, Watcher, Witness, Substrate, Interference, and a continuous Recursion loop.
