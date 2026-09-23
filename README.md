@@ -5,6 +5,15 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 ![status](https://img.shields.io/badge/status-prototype-success)
 
+## License
+
+This project is dual-licensed under **AGPL-3.0-only** OR a commercial license.
+
+- [LICENSE](LICENSE) — GNU AGPL-3.0-only (the free track)
+- [LICENSING.md](LICENSING.md) — how the two tracks work
+- [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md) — the commercial agreement
+- [NOTICE](NOTICE) — copyright, SPDX identifier, and provenance
+
 RFE-Core
 
 Minimal prototype for the RFE-Core architecture: a small, self-contained cognitive vector system with a Transformer-based Generator, Watcher, Witness, Substrate, Interference, and a continuous Recursion loop.
